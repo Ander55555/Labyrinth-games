@@ -1,0 +1,32 @@
+<!-- Use this on your website, blog and more -->
+<iframe src="https://embed.hypehype.com/game/glass-bridge-squid-game/r/y0XPrAfPpHaMSW" allow="clipboard-read; clipboard-write"></iframe>
+
+<!-- Use this on https://itch.io and similar -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HypeHype - Glass Bridge Squid Game</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      border: 0;
+    }
+    iframe {
+      width: 100vw;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+      position: fixed;
+      top: 0;
+      border: 0;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://embed.hypehype.com/game/glass-bridge-squid-game/r/y0XPrAfPpHaMSW" allow="clipboard-read; clipboard-write"></iframe>
+</body>
+</html>
